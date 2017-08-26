@@ -1,0 +1,21 @@
+.post-component {
+  margin-bottom: 25px;
+  margin-top: 25px;
+  margin-right: 20px;
+  display: inline-block;
+  width: 40%;
+  border: 1px solid black;
+  padding: 10px;
+
+
+
+  .btn-dislike {
+    background-color: #A2A2A2;
+    color: #A2A2A2;
+  }
+
+  .btn-like {
+    background-color: #FFFFFF;
+    color: white;
+  }
+}

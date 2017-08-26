@@ -1,0 +1,1 @@
+export const LIKED_POSTS_KEY = "likedPosts"
